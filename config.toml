@@ -42,8 +42,8 @@ disqusShortname = ""
 [params]
     since = 2018
     author = "Jérôme Desseaux"               # Author's name
-    subtitle = "Développeur web fullstack freelance"       # Subtitle
-    subsubtitle = "Spécialisé en PHP (Symfony, Laravel) et Python (Django, Flask)"
+    subtitle = "Développeur web et mobile fullstack freelance"       # Subtitle
+    subsubtitle = "Python, Node.js, Vue, React et Flutter"
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
 
@@ -161,29 +161,29 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     width = 800
     height = 600
 
-[params.gitalk]
-owner = "JeromeDesseaux"       # Your GitHub ID       
-repo = ""        # The repo to store comments    
-clientId = ""    # Your client ID      
-clientSecret = "" # Your client secret
+# [params.gitalk]
+# owner = "JeromeDesseaux"       # Your GitHub ID       
+# repo = ""        # The repo to store comments    
+# clientId = ""    # Your client ID      
+# clientSecret = "" # Your client secret
 
-[params.valine]
-  enable = false
-  appId = 'your appId'
-  appKey = 'your appKey'
-  notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
-  verify = false # Verification code
-  avatar = 'mm'
-  placeholder = 'your comments ...'
-  visitor = true
+# [params.valine]
+#   enable = false
+#   appId = 'your appId'
+#   appKey = 'your appKey'
+#   notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
+#   verify = false # Verification code
+#   avatar = 'mm'
+#   placeholder = 'your comments ...'
+#   visitor = true
 
-[params.utterances]       # https://utteranc.es/
-    owner = ""              # Your GitHub ID
-    repo = ""               # The repo to store comments
+# [params.utterances]       # https://utteranc.es/
+#     owner = ""              # Your GitHub ID
+#     repo = ""               # The repo to store comments
 
-[params.gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
-    owner = ""              # Your GitHub ID
-    repo = ""               # The repo to store comments
-    clientId = ""           # Your client ID
-    clientSecret = ""       # Your client secret
+# [params.gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
+#     owner = ""              # Your GitHub ID
+#     repo = ""               # The repo to store comments
+#     clientId = ""           # Your client ID
+#     clientSecret = ""       # Your client secret
 

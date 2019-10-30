@@ -1,4 +1,5 @@
 ---
+published: false
 author:
   name: "Hugo Authors"
 date: 2014-03-10

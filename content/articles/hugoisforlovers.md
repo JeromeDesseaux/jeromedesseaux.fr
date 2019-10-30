@@ -1,4 +1,5 @@
 +++
+published = false
 title = "Getting Started with Hugo"
 description = ""
 type = ["posts","post"]

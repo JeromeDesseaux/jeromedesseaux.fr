@@ -1,4 +1,5 @@
 +++
+published = false
 title = "(Hu)go Template Primer"
 description = ""
 type = ["posts","post"]
