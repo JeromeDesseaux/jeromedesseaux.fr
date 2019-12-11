@@ -42,8 +42,8 @@ disqusShortname = ""
 [params]
     since = 2018
     author = "Jérôme Desseaux"               # Author's name
-    subtitle = "Développeur web et mobile fullstack freelance"       # Subtitle
-    subsubtitle = "Python, Node.js, Vue, React et Flutter"
+    subtitle = "Data Scientist et Développeur Fullstack freelance"       # Subtitle
+    subsubtitle = "Python, Node.js, Vue"
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
 
@@ -53,7 +53,7 @@ disqusShortname = ""
     pinterest_verification = ""
     baidu_verification = ""
     
-    avatar = "/avatar.jpg" #comment it to use gravatar
+    avatar = "/chest.jpg" #comment it to use gravatar
     socialShare = true
     
     description = "Ingénieur et développeur indépendant à Rouen : Réalisations sur-mesure, architecture, refonte et optimisations diverses; Rendons votre site attractif !" # site description
