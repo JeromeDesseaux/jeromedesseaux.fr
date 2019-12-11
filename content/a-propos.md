@@ -13,6 +13,7 @@ aliases = ["about-us","about-hugo","contact"]
 Ingénieur spécialisé en Architecture des systèmes d'information, je conçois et réalise des applications web et mobiles **pérennes, structurées et maintenables** depuis 2011 et, plus récemment en freelance, depuis 2018.  -->
 
 Ingénieur de formation, j'accompagne mes clients dans leur démarche de transformation numérique via notamment : 
+
 - L'enrichissement de données (Web-scraping, open-data)
 - La création d'API
 - La modélisation statistique (machine-learning)
