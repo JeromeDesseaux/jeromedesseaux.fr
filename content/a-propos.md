@@ -26,7 +26,7 @@ Vivant à Rouen et ne disposant pas de moyen de transport autre que mon fidèle 
 
 ## Ma stack
 
-Au fil des années, j'ai développé une expérience certaine sur les langages **Python** et **Javascript** et plus spécifiquement sur **Scikit-learng, Tensorflow, Django, Flask et Express**. Côté frontend, j'utilise principalement **Vue.js et Angular**.
+Au fil des années, j'ai développé une expérience certaine sur les langages **Python** et **Javascript** et plus spécifiquement sur **Scikit-learn, Tensorflow, Django, Flask et Express**. Côté frontend, j'utilise principalement **Vue.js et Angular**.
 
  <!-- Je réalise aussi des applications mobiles à l'aide du nouveau framework montant de Google : **Flutter**. Plus récemment, j'ai obtenu une certification **Swift** me permettant de développer des compétences sur les applications natives iOS. -->
 
