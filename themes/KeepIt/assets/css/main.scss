@@ -20,4 +20,24 @@
 
 
 @import "_common/_core/media.scss";
-@import "custom"
+@import "custom";
+
+
+.author_header {
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: .3rem;
+    font-weight: 300;
+}
+
+.social-links {
+    color: aquamarine;
+}
+
+.header-logo {
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: -.15rem;
+    font-weight: 400;
+    font-size: 1.3rem;
+}

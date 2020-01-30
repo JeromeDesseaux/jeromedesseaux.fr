@@ -18,6 +18,11 @@
         alt="gravatar"> </a>
   </div>
   {{ end }}
+  {{ with .Site.Params.author}}
+  <h1 class="author_header">
+    {{ . }}
+  </h1>
+  {{ end }}
   {{ with .Site.Params.subtitle}}
   <h2 class="description">
     {{ . }}
@@ -27,6 +32,11 @@
   <h3 class="subdescription">
     {{ . }}
   </h3>
+  {{ end }}
+  {{ with .Site.Params.subsubsubtitle}}
+  <h4 class="subsubdescription">
+    {{ . }}
+  </h4>
   {{ end }}
   <div class="social-links">
     {{ partial "social.html" . }}

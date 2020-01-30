@@ -44,23 +44,32 @@
   h2.description {
     font-size: 1.3em;
     font-weight: normal;
-    padding: 15px;
+    padding: 10px;
   }
 
   h3.subdescription {
-    font-size: 1em;
+    font-size: 1.15em;
     font-weight: normal;
     padding: 10px;
+  }
+  h4.subsubdescription {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1em;
+    font-weight: 400;
+    padding: 30px;
   }
 
   .social-links {
     padding: 15px;
+    
 
     a {
 
       padding: 10px 15px;
+      color: #f8c291;
 
       &:hover {
+        color:#fad390;
 
         background-color: transparent;
       }

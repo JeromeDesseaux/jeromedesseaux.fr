@@ -3,11 +3,11 @@ published: false
 author:
   name: "Jérôme Desseaux"
 date: 2018-09-28
-linktitle: Creating a New Theme
+linktitle: Mes retours après un an de freelancing
 type:
 - post 
 - posts
-title: Creating a New Theme
+title: Mes retours après un an de freelancing
 weight: 10
 series:
 - Hugo 101
