@@ -44,8 +44,8 @@ disqusShortname = ""
     header = "JD"
     since = 2018
     author = "Jérôme Desseaux"               # Author's name
-    subtitle = "Architecte et développeur web freelance"       # Subtitle
-    subsubtitle = "Etudier, concevoir, intégrer et réaliser vos objectifs de présence numérique."
+    subtitle = "Développeur freelance"       # Subtitle
+    subsubtitle = "Expertise data & backend (API, scraping) en Python & Node.js"
     subsubsubtitle = "🚀 Disponible sur site à Rouen et partout ailleurs en France en télétravail"
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
@@ -59,8 +59,8 @@ disqusShortname = ""
     avatar = "/chest.jpg" #comment it to use gravatar
     socialShare = true
     
-    description = "Ingénieur et développeur indépendant à Rouen : Réalisations sur-mesure, architecture, refonte et optimisations diverses; Rendons votre site attractif !" # site description
-    keywords = "Développement Symfony PHP Rouen freelance indépendant Jérôme Desseaux Laravel web" # site keywords
+    description = "Ingénieur et développeur indépendant à Rouen : Réalisations sur-mesure, architecture, refonte et optimisations !"
+    keywords = "Développement Python data data-science science intelligence-artificielle IA node javascript react scraping vue Rouen freelance indépendant Jérôme Desseaux web" # site keywords
 
     license= 'Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 

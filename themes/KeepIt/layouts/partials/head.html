@@ -29,16 +29,7 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tangerine">
   <link href="https://fonts.googleapis.com/css?family=Raleway:300,400&display=swap" rel="stylesheet">
   {{ partial "custom_seo" . }}
-  <title>
-    {{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
-    {{ if .IsHome }}
-    {{ .Site.Title }}
-    {{ else if .Params.heading }}
-    {{ .Params.heading }}
-    {{ else }}
-    {{ .Title }} | {{ .Site.Title }}
-    {{ end }}
-    | Développeur web symfony/django freelance
+  <title>Consultant backend (Node.js / Python) freelance à Rouen
   </title>
   <meta name="title"
     content="{{ if .IsHome }}{{ .Site.Title }}{{ else if .Params.heading }}{{ .Params.heading }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end}}">
